@@ -1,6 +1,6 @@
 
-#ifndef TEST_H
-# define TEST_H
+#ifndef SDL_H
+# define SDL_H
 # define SCREEN_WIDTH 640
 # define SCREEN_HEIGHT 480
 

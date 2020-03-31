@@ -1,5 +1,5 @@
 
-#include "test.h"
+#include "sdl.h"
 
 void	handle_error(char *message)
 {
