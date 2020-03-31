@@ -1,0 +1,4 @@
+# Compiled source #
+*.a
+*.o
+SDL2
