@@ -102,9 +102,9 @@ SDL_Texture	*load_texture(char *path, t_sdl *sdl)
 
 void	load_media(t_sdl *sdl)
 {
-	texture_load_from_file(sdl, sdl->textures[0], "fadeout.png");
+	texture_load_from_file(sdl, sdl->textures[0], "fadein.png");
 	set_blend_mode(sdl->textures[0], SDL_BLENDMODE_BLEND);
-	texture_load_from_file(sdl, sdl->textures[1], "fadein.png");
+	texture_load_from_file(sdl, sdl->textures[1], "fadeout.png");
 }
 
 void	close_sdl(t_sdl *sdl)
