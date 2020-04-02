@@ -11,14 +11,14 @@ On Ubuntu Linux:
 ```
 sudo apt-get install libsdl2-dev
 ```
-
+<hr>
 Projects from lesson-06 onwards need the SDL_image extension library.
 
 On Ubuntu Linux:
 ```
 sudo apt-get install libsdl2-image-dev
 ```
-
+<hr
 Projects from lesson-16 onwards need the SDL_ttf extension library.
 
 On Ubuntu Linux:
